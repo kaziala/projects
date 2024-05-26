@@ -1,0 +1,2 @@
+C:\Users\mohdm\Downloads\groupproject-highlander final\groupproject-highlander\HighlanderSimulator\GameResultsRepository\GameResultsRepository.csproj;x86
+C:\Users\mohdm\Downloads\groupproject-highlander final\groupproject-highlander\HighlanderSimulator\HighlanderSimulator\HighlanderSimulator.csproj;x86
